@@ -1,0 +1,42 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PJW – Statistics</title>
+    <link>https://joelwallberg.github.io/tags/statistics/</link>
+    <description>Recent content in Statistics on PJW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="https://joelwallberg.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Probability Theory</title>
+      <link>https://joelwallberg.github.io/courses/math/probability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelwallberg.github.io/courses/math/probability/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In this introduction to measure theoretic probability theory we assume the reader has basic understanding of measure theory. We begin with the notion of a sample space and build towards the proof of the central limit theorem.&lt;/p&gt;
+&lt;h2&gt;Random variables&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;random-variables&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#random-variables&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A random variable is a measurable function $X: \Omega \to \mathbb{R}$.&lt;/p&gt;
+&lt;h3&gt;Example&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;example&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#example&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;details class=&#34;last-of-type:hx-mb-0 hx-rounded-lg hx-bg-neutral-50 dark:hx-bg-neutral-800 hx-p-2 hx-mt-4 hx-group&#34; &gt;
+  &lt;summary class=&#34;hx-flex hx-items-center hx-cursor-pointer hx-select-none hx-list-none hx-p-1 hx-rounded hx-transition-colors hover:hx-bg-gray-100 dark:hover:hx-bg-neutral-800 before:hx-mr-1 before:hx-inline-block before:hx-transition-transform before:hx-content-[&#39;&#39;] dark:before:hx-invert rtl:before:hx-rotate-180 group-open:before:hx-rotate-90&#34;&gt;
+    &lt;strong class=&#34;hx-text-lg&#34;&gt;Solution&lt;/strong&gt;
+  &lt;/summary&gt;
+  &lt;div class=&#34;hx-p-2 hx-overflow-hidden&#34;&gt;
+    This will be hidden by default.
+  &lt;/div&gt;
+&lt;/details&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>

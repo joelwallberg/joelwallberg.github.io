@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PJW – Medical imaging</title>
+    <link>http://localhost:1313/courses/medical_imaging/</link>
+    <description>Recent content in Medical imaging on PJW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/courses/medical_imaging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Medical imaging, signals &amp; systems</title>
+      <link>http://localhost:1313/courses/medical_imaging/imaging_signals_systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/courses/medical_imaging/imaging_signals_systems/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
